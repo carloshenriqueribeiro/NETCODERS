@@ -1,0 +1,6 @@
+C:\Users\carlos\Google Drive\WeBlank\Cursos\LGROUP\INCUBADORA\aula10\Netcoders.WebApp\MainWindow\bin\Debug\MainWindow.exe.config
+C:\Users\carlos\Google Drive\WeBlank\Cursos\LGROUP\INCUBADORA\aula10\Netcoders.WebApp\MainWindow\obj\Debug\MainWindow.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Google Drive\WeBlank\Cursos\LGROUP\INCUBADORA\aula10\Netcoders.WebApp\MainWindow\obj\Debug\MainWindow.g.cs
+C:\Users\carlos\Google Drive\WeBlank\Cursos\LGROUP\INCUBADORA\aula10\Netcoders.WebApp\MainWindow\obj\Debug\App.g.cs
+C:\Users\carlos\Google Drive\WeBlank\Cursos\LGROUP\INCUBADORA\aula10\Netcoders.WebApp\MainWindow\obj\Debug\MainWindow_MarkupCompile.cache
+C:\Users\carlos\Google Drive\WeBlank\Cursos\LGROUP\INCUBADORA\aula10\Netcoders.WebApp\MainWindow\obj\Debug\MainWindow_MarkupCompile.lref
